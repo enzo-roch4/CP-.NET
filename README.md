@@ -2,6 +2,12 @@
 
 # API de Cadastro de Brinquedos
 
+### Membros do Grupo
+- **Enzo Franco Rocha** - RM: 553643
+- **João Pedro Pereira** - RM: 553698
+- **Herbert Santos de Sousa** - RM: 553227
+
+
 ## Descrição do Projeto
 
 Este projeto é uma API desenvolvida em C# com .NET para gerenciar o cadastro de brinquedos de uma loja voltada para crianças de até 12 anos. A API permite realizar operações **CRUD** (Create, Read, Update, Delete) no banco de dados, utilizando **Entity Framework Core** para a comunicação com o banco de dados Oracle.
@@ -37,7 +43,3 @@ A API expõe endpoints para cadastro, consulta, atualização e remoção de bri
   "preco": "199.99"
 }
 
-### Membros do Grupo
-- **Enzo Franco Rocha** - RM: 553643
-- **João Pedro Pereira** - RM: 553698
-- **Herbert Santos de Sousa** - RM: 553227
